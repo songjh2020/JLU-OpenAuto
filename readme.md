@@ -1,4 +1,4 @@
-# 吉林大学自动化专业生存攻略 | JLU-OpenAuto
+# 吉林大学自动化机器人专业生存攻略 | JLU-OpenAuto
 
 受 [哈工大（深圳）自动化专业课程攻略项目](https://github.com/lmh12138/HITSZ-OpenAuto) 启发，创立了本项目。
 
